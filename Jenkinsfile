@@ -4,9 +4,7 @@ node {
 
     env.DOCKER_API_VERSION="1.30"
     
-    sh "git rev-parse --short HEAD > commit-id"
-
-    tag = readFile('commit-id').replace("\n", "").replace("\r", "")
+    tag = "latest"
     appName = "mywebsite"
     registryHost = "100.125.0.94:20202/org-demo-aurelien/"
     imageName = "${registryHost}${appName}:${tag}"
