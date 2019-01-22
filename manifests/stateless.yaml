@@ -1,0 +1,63 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: mydeployment
+  namespace: default
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: myubuntu
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+
+  template:
+    metadata:
+      labels:
+        app: myubuntu
+    spec:
+      affinity: {}
+
+      containers:
+      - name: myubu
+        image: 100.125.0.94:20202/org-demo-aurelien/mywebsite:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+        env:
+        - name: MYENV
+          value: myvalue1
+        - name: MYENV2
+          value: myvalue2
+        resources:
+          limits:
+            cpu: 250m
+            memory: 512Mi
+          requests:
+            cpu: 250m
+            memory: 512Mi
+        #volume EVS et SFS
+        volumeMounts:
+        - mountPath: /evs
+          name: cce-evs-aurel-1
+        - mountPath: /sfs
+          name: cce-sfs-aurel-1
+
+      restartPolicy: Always
+      imagePullSecrets:
+      - name: default-secret
+
+# Définition PVC Volume EVS et SFS
+      volumes:
+      - name: cce-evs-aurel-1   #Le volume doit être créé au préalable
+        persistentVolumeClaim:
+          claimName: cce-evs-aurel-1
+      - name: cce-sfs-aurel-1   #Le volume doit être créé au préalable
+        persistentVolumeClaim:
+          claimName: cce-sfs-aurel-1
+
+
+
