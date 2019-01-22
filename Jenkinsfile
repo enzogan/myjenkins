@@ -12,7 +12,7 @@ node {
 
     stage "Build"
     
-        sh "docker build -t ${imageName} -f mywebsite/Dockerfile"
+        sh "docker build -t ${imageName} mywebsite/"
     
     stage "Push"
 
