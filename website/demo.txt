@@ -1,0 +1,53 @@
+###############################################################
+####Coller dans « index.php » entre les lignes 236 et 240. ####
+###############################################################
+<div class="container">
+  <div class="kt_home_slide slide-home2 slide-home3 nav-center nav-style1" data-nav="true" data-items="1" data-autoplay="true" data-loop="true" data-animateout="fadeOut" data-animatein="fadeIn">
+    <div class="item-slide">
+      <img src="images/sliders/7.jpg" alt="">
+      <div class="content-slide">
+        <span data-animate="fadeInDown" class="caption subtitle">Get a new look with our new!</span>
+        <h2 data-animate="zoomIn" class="caption title">SPRING LOOKBOOK 2016</h2>
+        <a data-animate="fadeInDown" class="caption link merriweather" href="#">Shopnow</a>
+      </div>
+    </div>
+    <div class="item-slide">
+      <img src="images/sliders/8.jpg" alt="">
+      <div  class="content-slide">
+        <span data-animate="fadeInDown" class="caption subtitle">The fifth-Generation Intel Core Processors!</span>
+        <h2 data-animate="zoomIn " class="caption title">MACBOOK AIR</h2>
+        <a data-animate="fadeInDown"  class="caption link merriweather" href="#">Shopnow</a>
+      </div>
+    </div>
+    <div class="item-slide">
+      <img src="images/sliders/9.jpg" alt="">
+      <div  class="content-slide">
+        <span data-animate="fadeInDown" class="caption subtitle">The Morden Northern Lighting Acorn Pendant Light!</span>
+        <h2 data-animate="zoomIn" class="caption title">NORTHEN LIGHT</h2>
+        <a data-animate="fadeInDown"  class="caption link merriweather" href="#">Shopnow</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+#######################################################################################
+####js/functions.js: Supprimer le double « / » en début de ligne sur la ligne 479. ####
+#######################################################################################
+function init_popup(){
+    if($(window).width() + kt_get_scrollbar_width() >= 768){
+        if($('body').hasClass('home')){
+            //Open directly via API
+            $.magnificPopup.open({
+              items: {
+                src: '<div class="white-popup"><div class="kt-popup-newsletter"><div class="popup-title"><h3>Luckyshop</h3><p class="notice">enter your email and get  <span class="text-primary">25% off</span> YOUR first purchase!</p></div><form class="form-subscribe"><input class="input" placeholder="Your email here" type="text" /><button class="button">NO THANKS!</button><button class="button primary">Enter</button></form><div class="checkbox"><label><input type="checkbox" value="">Dont show this popup again!</label></div></div></div>',  //can be a HTML string, jQuery object, or CSS selector
+                type: 'inline'
+              }
+            });
+        }
+    }
+}
