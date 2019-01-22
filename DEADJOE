@@ -1,0 +1,1198 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jan 22 12:56:57 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Shell 2 *'
+
+*** These modified files were found in JOE when it aborted on Tue Jan 22 12:56:57 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG
+* Startup Log *
+* Shell 2 *
+
+*** File '/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Dockerfile
+#	new file:   website/css/animate.css
+#	new file:   website/css/bootstrap.min.css
+#	new file:   website/css/chosen.css
+#	new file:   website/css/color.css
+#	new file:   website/css/easyzoom.css
+#	new file:   website/css/flaticon.css
+#	new file:   website/css/font-awesome.min.css
+#	new file:   website/css/jquery.mCustomScrollbar.css
+#	new file:   website/css/magnific-popup.css
+#	new file:   website/css/owl.carousel.css
+#	new file:   website/css/style.css
+#	new file:   website/demo.txt
+#	new file:   website/fonts/FontAwesome.otf
+#	new file:   website/fonts/flaticon.eot
+#	new file:   website/fonts/flaticon.svg
+#	new file:   website/fonts/flaticon.ttf
+#	new file:   website/fonts/flaticon.woff
+#	new file:   website/fonts/fontawesome-webfont.eot
+#	new file:   website/fonts/fontawesome-webfont.svg
+#	new file:   website/fonts/fontawesome-webfont.ttf
+#	new file:   website/fonts/fontawesome-webfont.woff
+#	new file:   website/fonts/fontawesome-webfont.woff2
+#	new file:   website/fonts/glyphicons-halflings-regular.eot
+#	new file:   website/fonts/glyphicons-halflings-regular.svg
+#	new file:   website/fonts/glyphicons-halflings-regular.ttf
+#	new file:   website/fonts/glyphicons-halflings-regular.woff
+#	new file:   website/fonts/glyphicons-halflings-regular.woff2
+#	new file:   website/images/avatars/1.jpg
+#	new file:   website/images/avatars/1.png
+#	new file:   website/images/avatars/2.jpg
+#	new file:   website/images/avatars/2.png
+#	new file:   website/images/avatars/3.jpg
+#	new file:   website/images/avatars/3.png
+#	new file:   website/images/avatars/4.jpg
+#	new file:   website/images/banners/1.jpg
+#	new file:   website/images/banners/10.jpg
+#	new file:   website/images/banners/11.jpg
+#	new file:   website/images/banners/12.jpg
+#	new file:   website/images/banners/13.jpg
+#	new file:   website/images/banners/14.jpg
+#	new file:   website/images/banners/15.jpg
+#	new file:   website/images/banners/16.jpg
+#	new file:   website/images/banners/17.jpg
+#	new file:   website/images/banners/18.jpg
+#	new file:   website/images/banners/19.jpg
+#	new file:   website/images/banners/2.jpg
+#	new file:   website/images/banners/20.jpg
+#	new file:   website/images/banners/21.jpg
+#	new file:   website/images/banners/22.jpg
+#	new file:   website/images/banners/23.jpg
+#	new file:   website/images/banners/24.jpg
+#	new file:   website/images/banners/25.jpg
+#	new file:   website/images/banners/26.jpg
+#	new file:   website/images/banners/27.jpg
+#	new file:   website/images/banners/28.jpg
+#	new file:   website/images/banners/3.jpg
+#	new file:   website/images/banners/4.jpg
+#	new file:   website/images/banners/5.jpg
+#	new file:   website/images/banners/6.jpg
+#	new file:   website/images/banners/7.jpg
+#	new file:   website/images/banners/8.jpg
+#	new file:   website/images/banners/9.jpg
+#	new file:   website/images/blogs/1.jpg
+#	new file:   website/images/blogs/10.jpg
+#	new file:   website/images/blogs/11.jpg
+#	new file:   website/images/blogs/12.jpg
+#	new file:   website/images/blogs/13.jpg
+#	new file:   website/images/blogs/14.jpg
+#	new file:   website/images/blogs/15.jpg
+#	new file:   website/images/blogs/16.jpg
+#	new file:   website/images/blogs/2.jpg
+#	new file:   website/images/blogs/3.jpg
+#	new file:   website/images/blogs/4.jpg
+#	new file:   website/images/blogs/5.jpg
+#	new file:   website/images/blogs/6.jpg
+#	new file:   website/images/blogs/7.jpg
+#	new file:   website/images/blogs/8.jpg
+#	new file:   website/images/blogs/9.jpg
+#	new file:   website/images/icons/1.png
+#	new file:   website/images/icons/11.png
+#	new file:   website/images/icons/2.png
+#	new file:   website/images/icons/3.png
+#	new file:   website/images/icons/4.png
+#	new file:   website/images/icons/5.png
+#	new file:   website/images/instagrams/1.png
+#	new file:   website/images/instagrams/2.png
+#	new file:   website/images/instagrams/3.png
+#	new file:   website/images/instagrams/4.png
+#	new file:   website/images/instagrams/5.png
+#	new file:   website/images/instagrams/6.png
+#	new file:   website/images/logos/1.png
+#	new file:   website/images/logos/2.png
+#	new file:   website/images/payments/1.png
+#	new file:   website/images/payments/2.png
+#	new file:   website/images/payments/3.png
+#	new file:   website/images/products/1.jpg
+#	new file:   website/images/products/1.png
+#	new file:   website/images/products/10.jpg
+#	new file:   website/images/products/11.jpg
+#	new file:   website/images/products/12.jpg
+#	new file:   website/images/products/13.jpg
+#	new file:   website/images/products/14.jpg
+#	new file:   website/images/products/15.jpg
+#	new file:   website/images/products/16.jpg
+#	new file:   website/images/products/17.jpg
+#	new file:   website/images/products/18.jpg
+#	new file:   website/images/products/19.jpg
+#	new file:   website/images/products/2.jpg
+#	new file:   website/images/products/20.jpg
+#	new file:   website/images/products/21.jpg
+#	new file:   website/images/products/22.jpg
+#	new file:   website/images/products/23.jpg
+#	new file:   website/images/products/24.jpg
+#	new file:   website/images/products/25.jpg
+#	new file:   website/images/products/26.jpg
+#	new file:   website/images/products/27.jpg
+#	new file:   website/images/products/28.jpg
+#	new file:   website/images/products/29.jpg
+#	new file:   website/images/products/3.jpg
+#	new file:   website/images/products/30.jpg
+#	new file:   website/images/products/31.jpg
+#	new file:   website/images/products/32.jpg
+#	new file:   website/images/products/33.jpg
+#	new file:   website/images/products/34.jpg
+#	new file:   website/images/products/35.jpg
+#	new file:   website/images/products/36.jpg
+#	new file:   website/images/products/37.jpg
+#	new file:   website/images/products/38.jpg
+#	new file:   website/images/products/39.jpg
+#	new file:   website/images/products/4.jpg
+#	new file:   website/images/products/40.jpg
+#	new file:   website/images/products/41.jpg
+#	new file:   website/images/products/42.jpg
+#	new file:   website/images/products/43.jpg
+#	new file:   website/images/products/44.jpg
+#	new file:   website/images/products/45.jpg
+#	new file:   website/images/products/46.jpg
+#	new file:   website/images/products/5.jpg
+#	new file:   website/images/products/6.jpg
+#	new file:   website/images/products/7.jpg
+#	new file:   website/images/products/8.jpg
+#	new file:   website/images/size/1.jpg
+#	new file:   website/images/size/1.png
+#	new file:   website/images/size/2.png
+#	new file:   website/images/size/3.png
+#	new file:   website/images/size/4.png
+#	new file:   website/images/sliders/1.jpg
+#	new file:   website/images/sliders/2.jpg
+#	new file:   website/images/sliders/3.jpg
+#	new file:   website/images/sliders/4.jpg
+#	new file:   website/images/sliders/5.jpg
+#	new file:   website/images/sliders/6.jpg
+#	new file:   website/images/sliders/7.jpg
+#	new file:   website/images/sliders/8.jpg
+#	new file:   website/images/sliders/9.jpg
+#	new file:   website/images/sliders/thumb1.jpg
+#	new file:   website/images/sliders/thumb2.jpg
+#	new file:   website/images/sliders/thumb3.jpg
+#	new file:   website/images/sliders/thumb4.jpg
+#	new file:   website/images/sliders/thumb5.jpg
+#	new file:   website/index.php
+#	new file:   website/js/Modernizr.js
+#	new file:   website/js/bootstrap.min.js
+#	new file:   website/js/chosen.jquery.min.js
+#	new file:   website/js/easyzoom.js
+#	new file:   website/js/functions.js
+#	new file:   website/js/imagesloaded.pkgd.min.js
+#	new file:   website/js/isotope.pkgd.min.js
+#	new file:   website/js/jquery-2.1.4.min.js
+#	new file:   website/js/jquery-ui.min.js
+#	new file:   website/js/jquery.actual.min.js
+#	new file:   website/js/jquery.bxslider.min.js
+#	new file:   website/js/jquery.countdown.js
+#	new file:   website/js/jquery.mCustomScrollbar.concat.min.js
+#	new file:   website/js/jquery.magnific-popup.min.js
+#	new file:   website/js/jquery.parallax-1.1.3.js
+#	new file:   website/js/jquery.plugin.js
+#	new file:   website/js/masonry.js
+#	new file:   website/js/masonry.pkgd.min.js
+#	new file:   website/js/owl.carousel.min.js
+#	new file:   website/js/wow.min.js
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Tue Jan 22 12:56:57 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG
+* Startup Log *
+* Shell 2 *
+
+*** File '/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Dockerfile
+#	new file:   website/css/animate.css
+#	new file:   website/css/bootstrap.min.css
+#	new file:   website/css/chosen.css
+#	new file:   website/css/color.css
+#	new file:   website/css/easyzoom.css
+#	new file:   website/css/flaticon.css
+#	new file:   website/css/font-awesome.min.css
+#	new file:   website/css/jquery.mCustomScrollbar.css
+#	new file:   website/css/magnific-popup.css
+#	new file:   website/css/owl.carousel.css
+#	new file:   website/css/style.css
+#	new file:   website/demo.txt
+#	new file:   website/fonts/FontAwesome.otf
+#	new file:   website/fonts/flaticon.eot
+#	new file:   website/fonts/flaticon.svg
+#	new file:   website/fonts/flaticon.ttf
+#	new file:   website/fonts/flaticon.woff
+#	new file:   website/fonts/fontawesome-webfont.eot
+#	new file:   website/fonts/fontawesome-webfont.svg
+#	new file:   website/fonts/fontawesome-webfont.ttf
+#	new file:   website/fonts/fontawesome-webfont.woff
+#	new file:   website/fonts/fontawesome-webfont.woff2
+#	new file:   website/fonts/glyphicons-halflings-regular.eot
+#	new file:   website/fonts/glyphicons-halflings-regular.svg
+#	new file:   website/fonts/glyphicons-halflings-regular.ttf
+#	new file:   website/fonts/glyphicons-halflings-regular.woff
+#	new file:   website/fonts/glyphicons-halflings-regular.woff2
+#	new file:   website/images/avatars/1.jpg
+#	new file:   website/images/avatars/1.png
+#	new file:   website/images/avatars/2.jpg
+#	new file:   website/images/avatars/2.png
+#	new file:   website/images/avatars/3.jpg
+#	new file:   website/images/avatars/3.png
+#	new file:   website/images/avatars/4.jpg
+#	new file:   website/images/banners/1.jpg
+#	new file:   website/images/banners/10.jpg
+#	new file:   website/images/banners/11.jpg
+#	new file:   website/images/banners/12.jpg
+#	new file:   website/images/banners/13.jpg
+#	new file:   website/images/banners/14.jpg
+#	new file:   website/images/banners/15.jpg
+#	new file:   website/images/banners/16.jpg
+#	new file:   website/images/banners/17.jpg
+#	new file:   website/images/banners/18.jpg
+#	new file:   website/images/banners/19.jpg
+#	new file:   website/images/banners/2.jpg
+#	new file:   website/images/banners/20.jpg
+#	new file:   website/images/banners/21.jpg
+#	new file:   website/images/banners/22.jpg
+#	new file:   website/images/banners/23.jpg
+#	new file:   website/images/banners/24.jpg
+#	new file:   website/images/banners/25.jpg
+#	new file:   website/images/banners/26.jpg
+#	new file:   website/images/banners/27.jpg
+#	new file:   website/images/banners/28.jpg
+#	new file:   website/images/banners/3.jpg
+#	new file:   website/images/banners/4.jpg
+#	new file:   website/images/banners/5.jpg
+#	new file:   website/images/banners/6.jpg
+#	new file:   website/images/banners/7.jpg
+#	new file:   website/images/banners/8.jpg
+#	new file:   website/images/banners/9.jpg
+#	new file:   website/images/blogs/1.jpg
+#	new file:   website/images/blogs/10.jpg
+#	new file:   website/images/blogs/11.jpg
+#	new file:   website/images/blogs/12.jpg
+#	new file:   website/images/blogs/13.jpg
+#	new file:   website/images/blogs/14.jpg
+#	new file:   website/images/blogs/15.jpg
+#	new file:   website/images/blogs/16.jpg
+#	new file:   website/images/blogs/2.jpg
+#	new file:   website/images/blogs/3.jpg
+#	new file:   website/images/blogs/4.jpg
+#	new file:   website/images/blogs/5.jpg
+#	new file:   website/images/blogs/6.jpg
+#	new file:   website/images/blogs/7.jpg
+#	new file:   website/images/blogs/8.jpg
+#	new file:   website/images/blogs/9.jpg
+#	new file:   website/images/icons/1.png
+#	new file:   website/images/icons/11.png
+#	new file:   website/images/icons/2.png
+#	new file:   website/images/icons/3.png
+#	new file:   website/images/icons/4.png
+#	new file:   website/images/icons/5.png
+#	new file:   website/images/instagrams/1.png
+#	new file:   website/images/instagrams/2.png
+#	new file:   website/images/instagrams/3.png
+#	new file:   website/images/instagrams/4.png
+#	new file:   website/images/instagrams/5.png
+#	new file:   website/images/instagrams/6.png
+#	new file:   website/images/logos/1.png
+#	new file:   website/images/logos/2.png
+#	new file:   website/images/payments/1.png
+#	new file:   website/images/payments/2.png
+#	new file:   website/images/payments/3.png
+#	new file:   website/images/products/1.jpg
+#	new file:   website/images/products/1.png
+#	new file:   website/images/products/10.jpg
+#	new file:   website/images/products/11.jpg
+#	new file:   website/images/products/12.jpg
+#	new file:   website/images/products/13.jpg
+#	new file:   website/images/products/14.jpg
+#	new file:   website/images/products/15.jpg
+#	new file:   website/images/products/16.jpg
+#	new file:   website/images/products/17.jpg
+#	new file:   website/images/products/18.jpg
+#	new file:   website/images/products/19.jpg
+#	new file:   website/images/products/2.jpg
+#	new file:   website/images/products/20.jpg
+#	new file:   website/images/products/21.jpg
+#	new file:   website/images/products/22.jpg
+#	new file:   website/images/products/23.jpg
+#	new file:   website/images/products/24.jpg
+#	new file:   website/images/products/25.jpg
+#	new file:   website/images/products/26.jpg
+#	new file:   website/images/products/27.jpg
+#	new file:   website/images/products/28.jpg
+#	new file:   website/images/products/29.jpg
+#	new file:   website/images/products/3.jpg
+#	new file:   website/images/products/30.jpg
+#	new file:   website/images/products/31.jpg
+#	new file:   website/images/products/32.jpg
+#	new file:   website/images/products/33.jpg
+#	new file:   website/images/products/34.jpg
+#	new file:   website/images/products/35.jpg
+#	new file:   website/images/products/36.jpg
+#	new file:   website/images/products/37.jpg
+#	new file:   website/images/products/38.jpg
+#	new file:   website/images/products/39.jpg
+#	new file:   website/images/products/4.jpg
+#	new file:   website/images/products/40.jpg
+#	new file:   website/images/products/41.jpg
+#	new file:   website/images/products/42.jpg
+#	new file:   website/images/products/43.jpg
+#	new file:   website/images/products/44.jpg
+#	new file:   website/images/products/45.jpg
+#	new file:   website/images/products/46.jpg
+#	new file:   website/images/products/5.jpg
+#	new file:   website/images/products/6.jpg
+#	new file:   website/images/products/7.jpg
+#	new file:   website/images/products/8.jpg
+#	new file:   website/images/size/1.jpg
+#	new file:   website/images/size/1.png
+#	new file:   website/images/size/2.png
+#	new file:   website/images/size/3.png
+#	new file:   website/images/size/4.png
+#	new file:   website/images/sliders/1.jpg
+#	new file:   website/images/sliders/2.jpg
+#	new file:   website/images/sliders/3.jpg
+#	new file:   website/images/sliders/4.jpg
+#	new file:   website/images/sliders/5.jpg
+#	new file:   website/images/sliders/6.jpg
+#	new file:   website/images/sliders/7.jpg
+#	new file:   website/images/sliders/8.jpg
+#	new file:   website/images/sliders/9.jpg
+#	new file:   website/images/sliders/thumb1.jpg
+#	new file:   website/images/sliders/thumb2.jpg
+#	new file:   website/images/sliders/thumb3.jpg
+#	new file:   website/images/sliders/thumb4.jpg
+#	new file:   website/images/sliders/thumb5.jpg
+#	new file:   website/index.php
+#	new file:   website/js/Modernizr.js
+#	new file:   website/js/bootstrap.min.js
+#	new file:   website/js/chosen.jquery.min.js
+#	new file:   website/js/easyzoom.js
+#	new file:   website/js/functions.js
+#	new file:   website/js/imagesloaded.pkgd.min.js
+#	new file:   website/js/isotope.pkgd.min.js
+#	new file:   website/js/jquery-2.1.4.min.js
+#	new file:   website/js/jquery-ui.min.js
+#	new file:   website/js/jquery.actual.min.js
+#	new file:   website/js/jquery.bxslider.min.js
+#	new file:   website/js/jquery.countdown.js
+#	new file:   website/js/jquery.mCustomScrollbar.concat.min.js
+#	new file:   website/js/jquery.magnific-popup.min.js
+#	new file:   website/js/jquery.parallax-1.1.3.js
+#	new file:   website/js/jquery.plugin.js
+#	new file:   website/js/masonry.js
+#	new file:   website/js/masonry.pkgd.min.js
+#	new file:   website/js/owl.carousel.min.js
+#	new file:   website/js/wow.min.js
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+Type joehelp for editor shell commands
+
+root@ecs-aurel-debian:~/kubectl/gitmyjenkins/myjenkins# git commit -m copy
+[master 0c381ae] copy
+ 182 files changed, 15762 insertions(+)
+ create mode 100644 Dockerfile
+ create mode 100644 website/css/animate.css
+ create mode 100644 website/css/bootstrap.min.css
+ create mode 100644 website/css/chosen.css
+ create mode 100644 website/css/color.css
+ create mode 100644 website/css/easyzoom.css
+ create mode 100644 website/css/flaticon.css
+ create mode 100644 website/css/font-awesome.min.css
+ create mode 100644 website/css/jquery.mCustomScrollbar.css
+ create mode 100644 website/css/magnific-popup.css
+ create mode 100644 website/css/owl.carousel.css
+ create mode 100644 website/css/style.css
+ create mode 100644 website/demo.txt
+ create mode 100644 website/fonts/FontAwesome.otf
+ create mode 100644 website/fonts/flaticon.eot
+ create mode 100644 website/fonts/flaticon.svg
+ create mode 100644 website/fonts/flaticon.ttf
+ create mode 100644 website/fonts/flaticon.woff
+ create mode 100644 website/fonts/fontawesome-webfont.eot
+ create mode 100644 website/fonts/fontawesome-webfont.svg
+ create mode 100644 website/fonts/fontawesome-webfont.ttf
+ create mode 100644 website/fonts/fontawesome-webfont.woff
+ create mode 100644 website/fonts/fontawesome-webfont.woff2
+ create mode 100644 website/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 website/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 website/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 website/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 website/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 website/images/avatars/1.jpg
+ create mode 100644 website/images/avatars/1.png
+ create mode 100644 website/images/avatars/2.jpg
+ create mode 100644 website/images/avatars/2.png
+ create mode 100644 website/images/avatars/3.jpg
+ create mode 100644 website/images/avatars/3.png
+ create mode 100644 website/images/avatars/4.jpg
+ create mode 100644 website/images/banners/1.jpg
+ create mode 100644 website/images/banners/10.jpg
+ create mode 100644 website/images/banners/11.jpg
+ create mode 100644 website/images/banners/12.jpg
+ create mode 100644 website/images/banners/13.jpg
+ create mode 100644 website/images/banners/14.jpg
+ create mode 100644 website/images/banners/15.jpg
+ create mode 100644 website/images/banners/16.jpg
+ create mode 100644 website/images/banners/17.jpg
+ create mode 100644 website/images/banners/18.jpg
+ create mode 100644 website/images/banners/19.jpg
+ create mode 100644 website/images/banners/2.jpg
+ create mode 100644 website/images/banners/20.jpg
+ create mode 100644 website/images/banners/21.jpg
+ create mode 100644 website/images/banners/22.jpg
+ create mode 100644 website/images/banners/23.jpg
+ create mode 100644 website/images/banners/24.jpg
+ create mode 100644 website/images/banners/25.jpg
+ create mode 100644 website/images/banners/26.jpg
+ create mode 100644 website/images/banners/27.jpg
+ create mode 100644 website/images/banners/28.jpg
+ create mode 100644 website/images/banners/3.jpg
+ create mode 100644 website/images/banners/4.jpg
+ create mode 100644 website/images/banners/5.jpg
+ create mode 100644 website/images/banners/6.jpg
+ create mode 100644 website/images/banners/7.jpg
+ create mode 100644 website/images/banners/8.jpg
+ create mode 100644 website/images/banners/9.jpg
+ create mode 100644 website/images/blogs/1.jpg
+ create mode 100644 website/images/blogs/10.jpg
+ create mode 100644 website/images/blogs/11.jpg
+ create mode 100644 website/images/blogs/12.jpg
+ create mode 100644 website/images/blogs/13.jpg
+ create mode 100644 website/images/blogs/14.jpg
+ create mode 100644 website/images/blogs/15.jpg
+ create mode 100644 website/images/blogs/16.jpg
+ create mode 100644 website/images/blogs/2.jpg
+ create mode 100644 website/images/blogs/3.jpg
+ create mode 100644 website/images/blogs/4.jpg
+ create mode 100644 website/images/blogs/5.jpg
+ create mode 100644 website/images/blogs/6.jpg
+ create mode 100644 website/images/blogs/7.jpg
+ create mode 100644 website/images/blogs/8.jpg
+ create mode 100644 website/images/blogs/9.jpg
+ create mode 100644 website/images/icons/1.png
+ create mode 100644 website/images/icons/11.png
+ create mode 100644 website/images/icons/2.png
+ create mode 100644 website/images/icons/3.png
+ create mode 100644 website/images/icons/4.png
+ create mode 100644 website/images/icons/5.png
+ create mode 100644 website/images/instagrams/1.png
+ create mode 100644 website/images/instagrams/2.png
+ create mode 100644 website/images/instagrams/3.png
+ create mode 100644 website/images/instagrams/4.png
+ create mode 100644 website/images/instagrams/5.png
+ create mode 100644 website/images/instagrams/6.png
+ create mode 100644 website/images/logos/1.png
+ create mode 100644 website/images/logos/2.png
+ create mode 100644 website/images/payments/1.png
+ create mode 100644 website/images/payments/2.png
+ create mode 100644 website/images/payments/3.png
+ create mode 100644 website/images/products/1.jpg
+ create mode 100644 website/images/products/1.png
+ create mode 100644 website/images/products/10.jpg
+ create mode 100644 website/images/products/11.jpg
+ create mode 100644 website/images/products/12.jpg
+ create mode 100644 website/images/products/13.jpg
+ create mode 100644 website/images/products/14.jpg
+ create mode 100644 website/images/products/15.jpg
+ create mode 100644 website/images/products/16.jpg
+ create mode 100644 website/images/products/17.jpg
+ create mode 100644 website/images/products/18.jpg
+ create mode 100644 website/images/products/19.jpg
+ create mode 100644 website/images/products/2.jpg
+ create mode 100644 website/images/products/20.jpg
+ create mode 100644 website/images/products/21.jpg
+ create mode 100644 website/images/products/22.jpg
+ create mode 100644 website/images/products/23.jpg
+ create mode 100644 website/images/products/24.jpg
+ create mode 100644 website/images/products/25.jpg
+ create mode 100644 website/images/products/26.jpg
+ create mode 100644 website/images/products/27.jpg
+ create mode 100644 website/images/products/28.jpg
+ create mode 100644 website/images/products/29.jpg
+ create mode 100644 website/images/products/3.jpg
+ create mode 100644 website/images/products/30.jpg
+ create mode 100644 website/images/products/31.jpg
+ create mode 100644 website/images/products/32.jpg
+ create mode 100644 website/images/products/33.jpg
+ create mode 100644 website/images/products/34.jpg
+ create mode 100644 website/images/products/35.jpg
+ create mode 100644 website/images/products/36.jpg
+ create mode 100644 website/images/products/37.jpg
+ create mode 100644 website/images/products/38.jpg
+ create mode 100644 website/images/products/39.jpg
+ create mode 100644 website/images/products/4.jpg
+ create mode 100644 website/images/products/40.jpg
+ create mode 100644 website/images/products/41.jpg
+ create mode 100644 website/images/products/42.jpg
+ create mode 100644 website/images/products/43.jpg
+ create mode 100644 website/images/products/44.jpg
+ create mode 100644 website/images/products/45.jpg
+ create mode 100644 website/images/products/46.jpg
+ create mode 100644 website/images/products/5.jpg
+ create mode 100644 website/images/products/6.jpg
+ create mode 100644 website/images/products/7.jpg
+ create mode 100644 website/images/products/8.jpg
+ create mode 100644 website/images/size/1.jpg
+ create mode 100644 website/images/size/1.png
+ create mode 100644 website/images/size/2.png
+ create mode 100644 website/images/size/3.png
+ create mode 100644 website/images/size/4.png
+ create mode 100644 website/images/sliders/1.jpg
+ create mode 100644 website/images/sliders/2.jpg
+ create mode 100644 website/images/sliders/3.jpg
+  GNU nano 2.7.4                                                                              File: jenkins-deployment.yaml                                                                               Modified  
+
+apiVersion: extensions/v1beta1                                                                                                                                                                                      
+kind: Deployment
+metadata:
+  name: jenkins
+spec:
+  replicas: 1
+  template:  
+    metadata:
+      labels:
+        app: jenkins
+    spec:           
+      securityContext:
+        fsGroup: 1000 
+      containers:    
+      - name: jenkins
+#        image: jenkins/jenkins:lts
+        image: enzogan/myjenkins:latest
+#        env:
+#        - name: JAVA_OPTS
+#          value: -Djenkins.install.runSetupWizard=false
+        ports:                                          
+          - name: http-port
+            containerPort: 8080
+          - name: jnlp-port    
+            containerPort: 50000
+        volumeMounts:           
+        - mountPath: /var/jenkins_home
+          name: cce-evs-aurel-jenkins 
+
+      restartPolicy: Always          
+
+# Définition PVC Volume EVS et SFS
+      volumes:                    
+      - name: cce-evs-aurel-jenkins   #Le volume doit être créé au préalable
+        persistentVolumeClaim:                                              
+          claimName: cce-evs-aurel-jenkins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help      ^O Write Out     ^W Where Is      ^K Cut Text      ^J Justify       ^C Cur Pos       ^Y Prev Page     M-\ First Line   M-W WhereIs Next ^^ Mark Text     M-} Indent Text  M-U Undo
+^X Exit          ^R Read File     ^\ Replace       ^U Uncut Text    ^T To Spell      ^_ Go To Line    ^V Next Page     M-/ Last Line    M-] To Bracket   M-^ Copy Text    M-{ Unindent TextM-E Redo
+*** File '(Unnamed)'
+/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG
+* Startup Log *
+* Shell 2 *
+/root/kubectl/jenkins/
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 3 *
+
+*** File '/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Dockerfile
+#	new file:   website/css/animate.css
+#	new file:   website/css/bootstrap.min.css
+#	new file:   website/css/chosen.css
+#	new file:   website/css/color.css
+#	new file:   website/css/easyzoom.css
+#	new file:   website/css/flaticon.css
+#	new file:   website/css/font-awesome.min.css
+#	new file:   website/css/jquery.mCustomScrollbar.css
+#	new file:   website/css/magnific-popup.css
+#	new file:   website/css/owl.carousel.css
+#	new file:   website/css/style.css
+#	new file:   website/demo.txt
+#	new file:   website/fonts/FontAwesome.otf
+#	new file:   website/fonts/flaticon.eot
+#	new file:   website/fonts/flaticon.svg
+#	new file:   website/fonts/flaticon.ttf
+#	new file:   website/fonts/flaticon.woff
+#	new file:   website/fonts/fontawesome-webfont.eot
+#	new file:   website/fonts/fontawesome-webfont.svg
+#	new file:   website/fonts/fontawesome-webfont.ttf
+#	new file:   website/fonts/fontawesome-webfont.woff
+#	new file:   website/fonts/fontawesome-webfont.woff2
+#	new file:   website/fonts/glyphicons-halflings-regular.eot
+#	new file:   website/fonts/glyphicons-halflings-regular.svg
+#	new file:   website/fonts/glyphicons-halflings-regular.ttf
+#	new file:   website/fonts/glyphicons-halflings-regular.woff
+#	new file:   website/fonts/glyphicons-halflings-regular.woff2
+#	new file:   website/images/avatars/1.jpg
+#	new file:   website/images/avatars/1.png
+#	new file:   website/images/avatars/2.jpg
+#	new file:   website/images/avatars/2.png
+#	new file:   website/images/avatars/3.jpg
+#	new file:   website/images/avatars/3.png
+#	new file:   website/images/avatars/4.jpg
+#	new file:   website/images/banners/1.jpg
+#	new file:   website/images/banners/10.jpg
+#	new file:   website/images/banners/11.jpg
+#	new file:   website/images/banners/12.jpg
+#	new file:   website/images/banners/13.jpg
+#	new file:   website/images/banners/14.jpg
+#	new file:   website/images/banners/15.jpg
+#	new file:   website/images/banners/16.jpg
+#	new file:   website/images/banners/17.jpg
+#	new file:   website/images/banners/18.jpg
+#	new file:   website/images/banners/19.jpg
+#	new file:   website/images/banners/2.jpg
+#	new file:   website/images/banners/20.jpg
+#	new file:   website/images/banners/21.jpg
+#	new file:   website/images/banners/22.jpg
+#	new file:   website/images/banners/23.jpg
+#	new file:   website/images/banners/24.jpg
+#	new file:   website/images/banners/25.jpg
+#	new file:   website/images/banners/26.jpg
+#	new file:   website/images/banners/27.jpg
+#	new file:   website/images/banners/28.jpg
+#	new file:   website/images/banners/3.jpg
+#	new file:   website/images/banners/4.jpg
+#	new file:   website/images/banners/5.jpg
+#	new file:   website/images/banners/6.jpg
+#	new file:   website/images/banners/7.jpg
+#	new file:   website/images/banners/8.jpg
+#	new file:   website/images/banners/9.jpg
+#	new file:   website/images/blogs/1.jpg
+#	new file:   website/images/blogs/10.jpg
+#	new file:   website/images/blogs/11.jpg
+#	new file:   website/images/blogs/12.jpg
+#	new file:   website/images/blogs/13.jpg
+#	new file:   website/images/blogs/14.jpg
+#	new file:   website/images/blogs/15.jpg
+#	new file:   website/images/blogs/16.jpg
+#	new file:   website/images/blogs/2.jpg
+#	new file:   website/images/blogs/3.jpg
+#	new file:   website/images/blogs/4.jpg
+#	new file:   website/images/blogs/5.jpg
+#	new file:   website/images/blogs/6.jpg
+#	new file:   website/images/blogs/7.jpg
+#	new file:   website/images/blogs/8.jpg
+#	new file:   website/images/blogs/9.jpg
+#	new file:   website/images/icons/1.png
+#	new file:   website/images/icons/11.png
+#	new file:   website/images/icons/2.png
+#	new file:   website/images/icons/3.png
+#	new file:   website/images/icons/4.png
+#	new file:   website/images/icons/5.png
+#	new file:   website/images/instagrams/1.png
+#	new file:   website/images/instagrams/2.png
+#	new file:   website/images/instagrams/3.png
+#	new file:   website/images/instagrams/4.png
+#	new file:   website/images/instagrams/5.png
+#	new file:   website/images/instagrams/6.png
+#	new file:   website/images/logos/1.png
+#	new file:   website/images/logos/2.png
+#	new file:   website/images/payments/1.png
+#	new file:   website/images/payments/2.png
+#	new file:   website/images/payments/3.png
+#	new file:   website/images/products/1.jpg
+#	new file:   website/images/products/1.png
+#	new file:   website/images/products/10.jpg
+#	new file:   website/images/products/11.jpg
+#	new file:   website/images/products/12.jpg
+#	new file:   website/images/products/13.jpg
+#	new file:   website/images/products/14.jpg
+#	new file:   website/images/products/15.jpg
+#	new file:   website/images/products/16.jpg
+#	new file:   website/images/products/17.jpg
+#	new file:   website/images/products/18.jpg
+#	new file:   website/images/products/19.jpg
+#	new file:   website/images/products/2.jpg
+#	new file:   website/images/products/20.jpg
+#	new file:   website/images/products/21.jpg
+#	new file:   website/images/products/22.jpg
+#	new file:   website/images/products/23.jpg
+#	new file:   website/images/products/24.jpg
+#	new file:   website/images/products/25.jpg
+#	new file:   website/images/products/26.jpg
+#	new file:   website/images/products/27.jpg
+#	new file:   website/images/products/28.jpg
+#	new file:   website/images/products/29.jpg
+#	new file:   website/images/products/3.jpg
+#	new file:   website/images/products/30.jpg
+#	new file:   website/images/products/31.jpg
+#	new file:   website/images/products/32.jpg
+#	new file:   website/images/products/33.jpg
+#	new file:   website/images/products/34.jpg
+#	new file:   website/images/products/35.jpg
+#	new file:   website/images/products/36.jpg
+#	new file:   website/images/products/37.jpg
+#	new file:   website/images/products/38.jpg
+#	new file:   website/images/products/39.jpg
+#	new file:   website/images/products/4.jpg
+#	new file:   website/images/products/40.jpg
+#	new file:   website/images/products/41.jpg
+#	new file:   website/images/products/42.jpg
+#	new file:   website/images/products/43.jpg
+#	new file:   website/images/products/44.jpg
+#	new file:   website/images/products/45.jpg
+#	new file:   website/images/products/46.jpg
+#	new file:   website/images/products/5.jpg
+#	new file:   website/images/products/6.jpg
+#	new file:   website/images/products/7.jpg
+#	new file:   website/images/products/8.jpg
+#	new file:   website/images/size/1.jpg
+#	new file:   website/images/size/1.png
+#	new file:   website/images/size/2.png
+#	new file:   website/images/size/3.png
+#	new file:   website/images/size/4.png
+#	new file:   website/images/sliders/1.jpg
+#	new file:   website/images/sliders/2.jpg
+#	new file:   website/images/sliders/3.jpg
+#	new file:   website/images/sliders/4.jpg
+#	new file:   website/images/sliders/5.jpg
+#	new file:   website/images/sliders/6.jpg
+#	new file:   website/images/sliders/7.jpg
+#	new file:   website/images/sliders/8.jpg
+#	new file:   website/images/sliders/9.jpg
+#	new file:   website/images/sliders/thumb1.jpg
+#	new file:   website/images/sliders/thumb2.jpg
+#	new file:   website/images/sliders/thumb3.jpg
+#	new file:   website/images/sliders/thumb4.jpg
+#	new file:   website/images/sliders/thumb5.jpg
+#	new file:   website/index.php
+#	new file:   website/js/Modernizr.js
+#	new file:   website/js/bootstrap.min.js
+#	new file:   website/js/chosen.jquery.min.js
+#	new file:   website/js/easyzoom.js
+#	new file:   website/js/functions.js
+#	new file:   website/js/imagesloaded.pkgd.min.js
+#	new file:   website/js/isotope.pkgd.min.js
+#	new file:   website/js/jquery-2.1.4.min.js
+#	new file:   website/js/jquery-ui.min.js
+#	new file:   website/js/jquery.actual.min.js
+#	new file:   website/js/jquery.bxslider.min.js
+#	new file:   website/js/jquery.countdown.js
+#	new file:   website/js/jquery.mCustomScrollbar.concat.min.js
+#	new file:   website/js/jquery.magnific-popup.min.js
+#	new file:   website/js/jquery.parallax-1.1.3.js
+#	new file:   website/js/jquery.plugin.js
+#	new file:   website/js/masonry.js
+#	new file:   website/js/masonry.pkgd.min.js
+#	new file:   website/js/owl.carousel.min.js
+#	new file:   website/js/wow.min.js
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Tue Jan 22 12:56:57 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Shell 3 *'
+  GNU nano 2.7.4                                                                              File: jenkins-deployment.yaml                                                                                         
+
+apiVersion: extensions/v1beta1                                                                                                                                                                                      
+kind: Deployment
+metadata:
+  name: jenkins
+spec:
+  replicas: 1
+  template:  
+    metadata:
+      labels:
+        app: jenkins
+    spec:           
+      securityContext:
+        fsGroup: 1000 
+      containers:    
+      - name: jenkins
+#        image: jenkins/jenkins:lts
+        image: enzogan/myjenkins:latest
+#        env:
+#        - name: JAVA_OPTS
+#          value: -Djenkins.install.runSetupWizard=false
+        ports:                                          
+          - name: http-port
+            containerPort: 8080
+          - name: jnlp-port    
+            containerPort: 50000
+        volumeMounts:           
+        - mountPath: /var/jenkins_home
+          name: cce-evs-aurel-jenkins 
+
+      restartPolicy: Always          
+
+# Définition PVC Volume EVS et SFS
+      volumes:                    
+      - name: cce-evs-aurel-jenkins   #Le volume doit être créé au préalable
+        persistentVolumeClaim:                                              
+          claimName: cce-evs-aurel-jenkins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help      ^O Write Out     ^W Where Is      ^K Cut Text      ^J Justify       ^C Cur Pos       ^Y Prev Page     M-\ First Line   M-W WhereIs Next ^^ Mark Text     M-} Indent Text  M-U Undo
+^X Exit          ^R Read File     ^\ Replace       ^U Uncut Text    ^T To Spell      ^_ Go To Line    ^V Next Page     M-/ Last Line    M-] To Bracket   M-^ Copy Text    M-{ Unindent TextM-E Redo
+*** File '* Shell 2 *'
+
+Type joehelp for editor shell commands
+
+root@ecs-aurel-debian:~/kubectl/gitmyjenkins/myjenkins# git commit -m copy
+[master 0c381ae] copy
+ 182 files changed, 15762 insertions(+)
+ create mode 100644 Dockerfile
+ create mode 100644 website/css/animate.css
+ create mode 100644 website/css/bootstrap.min.css
+ create mode 100644 website/css/chosen.css
+ create mode 100644 website/css/color.css
+ create mode 100644 website/css/easyzoom.css
+ create mode 100644 website/css/flaticon.css
+ create mode 100644 website/css/font-awesome.min.css
+ create mode 100644 website/css/jquery.mCustomScrollbar.css
+ create mode 100644 website/css/magnific-popup.css
+ create mode 100644 website/css/owl.carousel.css
+ create mode 100644 website/css/style.css
+ create mode 100644 website/demo.txt
+ create mode 100644 website/fonts/FontAwesome.otf
+ create mode 100644 website/fonts/flaticon.eot
+ create mode 100644 website/fonts/flaticon.svg
+ create mode 100644 website/fonts/flaticon.ttf
+ create mode 100644 website/fonts/flaticon.woff
+ create mode 100644 website/fonts/fontawesome-webfont.eot
+ create mode 100644 website/fonts/fontawesome-webfont.svg
+ create mode 100644 website/fonts/fontawesome-webfont.ttf
+ create mode 100644 website/fonts/fontawesome-webfont.woff
+ create mode 100644 website/fonts/fontawesome-webfont.woff2
+ create mode 100644 website/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 website/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 website/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 website/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 website/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 website/images/avatars/1.jpg
+ create mode 100644 website/images/avatars/1.png
+ create mode 100644 website/images/avatars/2.jpg
+ create mode 100644 website/images/avatars/2.png
+ create mode 100644 website/images/avatars/3.jpg
+ create mode 100644 website/images/avatars/3.png
+ create mode 100644 website/images/avatars/4.jpg
+ create mode 100644 website/images/banners/1.jpg
+ create mode 100644 website/images/banners/10.jpg
+ create mode 100644 website/images/banners/11.jpg
+ create mode 100644 website/images/banners/12.jpg
+ create mode 100644 website/images/banners/13.jpg
+ create mode 100644 website/images/banners/14.jpg
+ create mode 100644 website/images/banners/15.jpg
+ create mode 100644 website/images/banners/16.jpg
+ create mode 100644 website/images/banners/17.jpg
+ create mode 100644 website/images/banners/18.jpg
+ create mode 100644 website/images/banners/19.jpg
+ create mode 100644 website/images/banners/2.jpg
+ create mode 100644 website/images/banners/20.jpg
+ create mode 100644 website/images/banners/21.jpg
+ create mode 100644 website/images/banners/22.jpg
+ create mode 100644 website/images/banners/23.jpg
+ create mode 100644 website/images/banners/24.jpg
+ create mode 100644 website/images/banners/25.jpg
+ create mode 100644 website/images/banners/26.jpg
+ create mode 100644 website/images/banners/27.jpg
+ create mode 100644 website/images/banners/28.jpg
+ create mode 100644 website/images/banners/3.jpg
+ create mode 100644 website/images/banners/4.jpg
+ create mode 100644 website/images/banners/5.jpg
+ create mode 100644 website/images/banners/6.jpg
+ create mode 100644 website/images/banners/7.jpg
+ create mode 100644 website/images/banners/8.jpg
+ create mode 100644 website/images/banners/9.jpg
+ create mode 100644 website/images/blogs/1.jpg
+ create mode 100644 website/images/blogs/10.jpg
+ create mode 100644 website/images/blogs/11.jpg
+ create mode 100644 website/images/blogs/12.jpg
+ create mode 100644 website/images/blogs/13.jpg
+ create mode 100644 website/images/blogs/14.jpg
+ create mode 100644 website/images/blogs/15.jpg
+ create mode 100644 website/images/blogs/16.jpg
+ create mode 100644 website/images/blogs/2.jpg
+ create mode 100644 website/images/blogs/3.jpg
+ create mode 100644 website/images/blogs/4.jpg
+ create mode 100644 website/images/blogs/5.jpg
+ create mode 100644 website/images/blogs/6.jpg
+ create mode 100644 website/images/blogs/7.jpg
+ create mode 100644 website/images/blogs/8.jpg
+ create mode 100644 website/images/blogs/9.jpg
+ create mode 100644 website/images/icons/1.png
+ create mode 100644 website/images/icons/11.png
+ create mode 100644 website/images/icons/2.png
+ create mode 100644 website/images/icons/3.png
+ create mode 100644 website/images/icons/4.png
+ create mode 100644 website/images/icons/5.png
+ create mode 100644 website/images/instagrams/1.png
+ create mode 100644 website/images/instagrams/2.png
+ create mode 100644 website/images/instagrams/3.png
+ create mode 100644 website/images/instagrams/4.png
+ create mode 100644 website/images/instagrams/5.png
+ create mode 100644 website/images/instagrams/6.png
+ create mode 100644 website/images/logos/1.png
+ create mode 100644 website/images/logos/2.png
+ create mode 100644 website/images/payments/1.png
+ create mode 100644 website/images/payments/2.png
+ create mode 100644 website/images/payments/3.png
+ create mode 100644 website/images/products/1.jpg
+ create mode 100644 website/images/products/1.png
+ create mode 100644 website/images/products/10.jpg
+ create mode 100644 website/images/products/11.jpg
+ create mode 100644 website/images/products/12.jpg
+ create mode 100644 website/images/products/13.jpg
+ create mode 100644 website/images/products/14.jpg
+ create mode 100644 website/images/products/15.jpg
+ create mode 100644 website/images/products/16.jpg
+ create mode 100644 website/images/products/17.jpg
+ create mode 100644 website/images/products/18.jpg
+ create mode 100644 website/images/products/19.jpg
+ create mode 100644 website/images/products/2.jpg
+ create mode 100644 website/images/products/20.jpg
+ create mode 100644 website/images/products/21.jpg
+ create mode 100644 website/images/products/22.jpg
+ create mode 100644 website/images/products/23.jpg
+ create mode 100644 website/images/products/24.jpg
+ create mode 100644 website/images/products/25.jpg
+ create mode 100644 website/images/products/26.jpg
+ create mode 100644 website/images/products/27.jpg
+ create mode 100644 website/images/products/28.jpg
+ create mode 100644 website/images/products/29.jpg
+ create mode 100644 website/images/products/3.jpg
+ create mode 100644 website/images/products/30.jpg
+ create mode 100644 website/images/products/31.jpg
+ create mode 100644 website/images/products/32.jpg
+ create mode 100644 website/images/products/33.jpg
+ create mode 100644 website/images/products/34.jpg
+ create mode 100644 website/images/products/35.jpg
+ create mode 100644 website/images/products/36.jpg
+ create mode 100644 website/images/products/37.jpg
+ create mode 100644 website/images/products/38.jpg
+ create mode 100644 website/images/products/39.jpg
+ create mode 100644 website/images/products/4.jpg
+ create mode 100644 website/images/products/40.jpg
+ create mode 100644 website/images/products/41.jpg
+ create mode 100644 website/images/products/42.jpg
+ create mode 100644 website/images/products/43.jpg
+ create mode 100644 website/images/products/44.jpg
+ create mode 100644 website/images/products/45.jpg
+ create mode 100644 website/images/products/46.jpg
+ create mode 100644 website/images/products/5.jpg
+ create mode 100644 website/images/products/6.jpg
+ create mode 100644 website/images/products/7.jpg
+ create mode 100644 website/images/products/8.jpg
+ create mode 100644 website/images/size/1.jpg
+ create mode 100644 website/images/size/1.png
+ create mode 100644 website/images/size/2.png
+ create mode 100644 website/images/size/3.png
+ create mode 100644 website/images/size/4.png
+ create mode 100644 website/images/sliders/1.jpg
+ create mode 100644 website/images/sliders/2.jpg
+ create mode 100644 website/images/sliders/3.jpg
+  GNU nano 2.7.4                                                                              File: jenkins-deployment.yaml                                                                               Modified  
+
+apiVersion: extensions/v1beta1                                                                                                                                                                                      
+kind: Deployment
+metadata:
+  name: jenkins
+spec:
+  replicas: 1
+  template:  
+    metadata:
+      labels:
+        app: jenkins
+    spec:           
+      securityContext:
+        fsGroup: 1000 
+      containers:    
+      - name: jenkins
+#        image: jenkins/jenkins:lts
+        image: enzogan/myjenkins:latest
+#        env:
+#        - name: JAVA_OPTS
+#          value: -Djenkins.install.runSetupWizard=false
+        ports:                                          
+          - name: http-port
+            containerPort: 8080
+          - name: jnlp-port    
+            containerPort: 50000
+        volumeMounts:           
+        - mountPath: /var/jenkins_home
+          name: cce-evs-aurel-jenkins 
+
+      restartPolicy: Always          
+
+# Définition PVC Volume EVS et SFS
+      volumes:                    
+      - name: cce-evs-aurel-jenkins   #Le volume doit être créé au préalable
+        persistentVolumeClaim:                                              
+          claimName: cce-evs-aurel-jenkins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help      ^O Write Out     ^W Where Is      ^K Cut Text      ^J Justify       ^C Cur Pos       ^Y Prev Page     M-\ First Line   M-W WhereIs Next ^^ Mark Text     M-} Indent Text  M-U Undo
+^X Exit          ^R Read File     ^\ Replace       ^U Uncut Text    ^T To Spell      ^_ Go To Line    ^V Next Page     M-/ Last Line    M-] To Bracket   M-^ Copy Text    M-{ Unindent TextM-E Redo
+*** File '(Unnamed)'
+/root/kubectl/gitmyjenkins/myjenkins/.git/COMMIT_EDITMSG
+* Startup Log *
+* Shell 2 *
+/root/kubectl/jenkins/
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 3 *
+/root/kubectl/jenkins/
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 3 *
+* Startup Log *
+* Shell 3 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 2 *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
