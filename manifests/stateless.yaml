@@ -41,8 +41,6 @@ spec:
             memory: 512Mi
         #volume EVS et SFS
         volumeMounts:
-        - mountPath: /evs
-          name: cce-evs-aurel-1
         - mountPath: /sfs
           name: cce-sfs-aurel-1
 
@@ -50,11 +48,8 @@ spec:
       imagePullSecrets:
       - name: default-secret
 
-# Définition PVC Volume EVS et SFS
+# Définition PVC Volume SFS
       volumes:
-      - name: cce-evs-aurel-1   #Le volume doit être créé au préalable
-        persistentVolumeClaim:
-          claimName: cce-evs-aurel-1
       - name: cce-sfs-aurel-1   #Le volume doit être créé au préalable
         persistentVolumeClaim:
           claimName: cce-sfs-aurel-1
