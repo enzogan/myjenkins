@@ -12,8 +12,9 @@ node {
 
     stage "Build"
         ntag = tag + 1
-        writeFile file: 'version.txt', text: ntag
+        printf ntag
         sh "docker build -t ${imageName} mywebsite/"
+        writeFile file: 'version.txt', text: ntag
     
     stage "Push"
 
