@@ -10,8 +10,7 @@ node {
     imageName = "${registryHost}${appName}:${tag}"
     env.BUILDIMG=imageName
     ntag = tag + 1
-    printf ntag
-    
+        
     stage "Build"
         sh "docker build -t ${imageName} mywebsite/"
         writeFile file: 'version.txt', text: ntag
