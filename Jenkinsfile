@@ -4,7 +4,7 @@ node {
 
     env.DOCKER_API_VERSION="1.30"
     
-    tag = readFile('version.txt')
+    int tag = readFile('version.txt') as Integer
     appName = "mywebsite"
     registryHost = "100.125.0.94:20202/org-demo-aurelien/"
     imageName = "${registryHost}${appName}:${tag}"
@@ -12,8 +12,7 @@ node {
     ntag = tag + 1
     
     stage "Build"
-        printf ntag
-        sh "docker build -t ${imageName} mywebsite/"
+          sh "docker build -t ${imageName} mywebsite/"
         writeFile file: 'version.txt', text: ntag
     
     stage "Push"
