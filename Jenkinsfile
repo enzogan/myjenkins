@@ -2,13 +2,9 @@
 pipeline { 
     agent any 
     stages {
-        stage('init') { 
-            steps { 
-                checkout scm 
-            }
-        }
         stage('Build') { 
             steps { 
+                echo "Running ${env.BUILD_ID}"
                 tag = "latest"
                 appName = "mywebsite"
                 registryHost = "100.125.0.94:20202/org-demo-aurelien/"
