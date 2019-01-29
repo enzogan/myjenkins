@@ -2,7 +2,7 @@
 pipeline { 
     agent any
     environment {
-        tag = "1.0.${env.BUILD_NUMBER}"
+        tag = "${env.BUILD_NUMBER}"
         appName = "mywebsite"
         registryHost = "100.125.0.94:20202/org-demo-aurelien/"
         imageName = "${registryHost}${appName}:${tag}"
@@ -20,7 +20,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                kubernetesDeploy configs: "manifests/*.yaml", kubeconfigId: 'mycluster_kubeconfig'
+                kubernetesDeploy configs: "manifests/*.yaml", kubeconfigId: 'mycluster_kubeconfig', enableConfigSubstitution: true
             }
         }
     }
