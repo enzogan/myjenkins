@@ -235,6 +235,7 @@
 	<!-- ./Header -->
 	<!-- Slide -->
 
+	
 <div class="container">
   <div class="kt_home_slide slide-home2 slide-home3 nav-center nav-style1" data-nav="true" data-items="1" data-autoplay="true" data-loop="true" data-animateout="fadeOut" data-animatein="fadeIn">
     <div class="item-slide">
@@ -265,32 +266,6 @@
 </div>
 	
 	
-	
-	
-
-<!--function init_popup(){
-    if($(window).width() + kt_get_scrollbar_width() >= 768){
-        if($('body').hasClass('home')){
-            //Open directly via API
-            $.magnificPopup.open({
-              items: {
-                src: '<div class="white-popup"><div class="kt-popup-newsletter"><div class="popup-title"><h3>Luckyshop</h3><p class="notice">enter your email and get  <span class="text-primary">25% off</span> YOUR first purchase!</p></div><form class="form-subscribe"><input class="input" placeholder="Your email here" type="text" /><button class="button">NO THANKS!</button><button class="button primary">Enter</button></form><div class="checkbox"><label><input type="checkbox" value="">Dont show this popup again!</label></div></div></div>',  //can be a HTML string, jQuery object, or CSS selector
-                type: 'inline'
-              }
-            });
-        }
-    
-}
-
-function init_popup(){
-    if($(window).width() + kt_get_scrollbar_width() >= 768){
-        if($('body').hasClass('home')){
-            //Open directly via API
-            $.magnificPopup.open({
-              items: {}
-                src: '-->
-				
-				<div class="white-popup"><div class="kt-popup-newsletter"><div class="popup-title"><h3>Luckyshop</h3><p class="notice">enter your email and get  <span class="text-primary">25% off</span> YOUR first purchase!</p></div><form class="form-subscribe"><input class="input" placeholder="Your email here" type="text" /><button class="button">NO THANKS!</button><button class="button primary">Enter</button></form><div class="checkbox"><label><input type="checkbox" value="">Dont show this popup again!</label></div></div></div>
  
 
 	
