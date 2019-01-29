@@ -2,7 +2,7 @@
 pipeline { 
     agent any
     environment {
-        tag = "${env.BUILD_NUMBER}"
+        tag = "1.0.${env.BUILD_NUMBER}"
         appName = "mywebsite"
         registryHost = "100.125.0.94:20202/org-demo-aurelien/"
         imageName = "${registryHost}${appName}:${tag}"
