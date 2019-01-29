@@ -23,7 +23,7 @@ spec:
 
       containers:
       - name: myubu
-        image: 100.125.0.94:20202/org-demo-aurelien/mywebsite:1.0.${env.BUILD_NUMBER}
+        image: 100.125.0.94:20202/org-demo-aurelien/mywebsite:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
