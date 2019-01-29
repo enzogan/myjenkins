@@ -2,7 +2,7 @@
 pipeline { 
     agent any
     environment {
-        tag = "latest"
+        tag = "1.0.${env.BUILD_NUMBER}"
         appName = "mywebsite"
         registryHost = "100.125.0.94:20202/org-demo-aurelien/"
         imageName = "${registryHost}${appName}:${tag}"
@@ -10,8 +10,6 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "ID1: ${env.BUILD_ID}"
-                echo "ID2: ${env.BUILD_NUMBER}"
                 sh "docker build -t ${imageName} mywebsite/"
             }
         }
