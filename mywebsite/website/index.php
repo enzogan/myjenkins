@@ -233,7 +233,7 @@
 		</div>
 	</div>
 	<!-- ./Header -->
-	<!-- Slide -->
+	<!-- Slide a ajouter-->
 
 	
 	
