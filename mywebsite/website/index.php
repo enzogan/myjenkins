@@ -235,6 +235,7 @@
 	<!-- ./Header -->
 	<!-- Slide a ajouter-->
 
+	
 <div class="container">
   <div class="kt_home_slide slide-home2 slide-home3 nav-center nav-style1" data-nav="true" data-items="1" data-autoplay="true" data-loop="true" data-animateout="fadeOut" data-animatein="fadeIn">
     <div class="item-slide">
