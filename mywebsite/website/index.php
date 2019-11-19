@@ -235,35 +235,7 @@
 	<!-- ./Header -->
 	<!-- Slides a ajouter-->
 
-<div class="container">
-  <div class="kt_home_slide slide-home2 slide-home3 nav-center nav-style1" data-nav="true" data-items="1" data-autoplay="true" data-loop="true" data-animateout="fadeOut" data-animatein="fadeIn">
-    <div class="item-slide">
-      <img src="images/sliders/7.jpg" alt="">
-      <div class="content-slide">
-        <span data-animate="fadeInDown" class="caption subtitle">Get a new look with our new!</span>
-        <h2 data-animate="zoomIn" class="caption title">SPRING LOOKBOOK 2016</h2>
-        <a data-animate="fadeInDown" class="caption link merriweather" href="#">Shopnow</a>
-      </div>
-    </div>
-    <div class="item-slide">
-      <img src="images/sliders/8.jpg" alt="">
-      <div  class="content-slide">
-        <span data-animate="fadeInDown" class="caption subtitle">The fifth-Generation Intel Core Processors!</span>
-        <h2 data-animate="zoomIn " class="caption title">MACBOOK AIR</h2>
-        <a data-animate="fadeInDown"  class="caption link merriweather" href="#">Shopnow</a>
-      </div>
-    </div>
-    <div class="item-slide">
-      <img src="images/sliders/9.jpg" alt="">
-      <div  class="content-slide">
-        <span data-animate="fadeInDown" class="caption subtitle">The Morden Northern Lighting Acorn Pendant Light!</span>
-        <h2 data-animate="zoomIn" class="caption title">NORTHEN LIGHT</h2>
-        <a data-animate="fadeInDown"  class="caption link merriweather" href="#">Shopnow</a>
-      </div>
-    </div>
-  </div>
-</div>
-	
+
 	
 
 	
